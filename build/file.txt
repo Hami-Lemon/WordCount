@@ -1,0 +1,41 @@
+
+,,,,,,test stset fasdf asdfa    , , , , ,,
+
+Set up Git
+At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.
+
+In this article
+Setting up Git
+Next steps: Authenticating with GitHub from Git
+Celebrate
+To use Git on the command line, you'll need to download, install, and configure Git on your computer. You can also install GitHub CLI to use GitHub from the command line. For more information on GitHub CLI, see the GitHub CLI documentation.
+
+If you want to work with Git locally, but don't want to use the command line, you can instead download and install the GitHub Desktop client. For more information, see "Installing and configuring GitHub Desktop."
+
+If you don't need to work with files locally, GitHub lets you complete many Git-related actions directly in the browser, including:
+
+Creating a repository
+Forking a repository
+Managing files
+Being social
+Setting up Git
+Download and install the latest version of Git.
+Set your username in Git.
+Set your commit email address in Git.
+Next steps: Authenticating with GitHub from Git
+When you connect to a GitHub repository from Git, you'll need to authenticate with GitHub using either HTTPS or SSH.
+
+Connecting over HTTPS (recommended)
+If you clone with HTTPS, you can cache your GitHub credentials in Git using a credential helper.
+
+Connecting over SSH
+If you clone with SSH, you must generate SSH keys on each computer you use to push or pull from GitHub.
+
+Celebrate
+Congratulations, you now have Git and GitHub all set up! What do you want to do next?
+
+Set up Git
+"Create a repository"
+"Fork a repository"
+"Be social"
+Connect with people around the world in the GitHub Community Support
