@@ -160,7 +160,8 @@ char *read_file(char *file) {
     content[0] = '\0';
     while (!feof(fp)) {
         char str[1024] = {'\0'};
-        fgets(str, 1024, fp);
+//        fgets(str, 1024, fp);
+        fread(str, 1024, 1, fp);
         strcat(content, str);
     }
     //最后一位为结束符
